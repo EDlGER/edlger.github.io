@@ -71,7 +71,7 @@
 
 
                     <li>
-                      <h5>AdMob</h4>
+                      <h4>AdMob</h4>
                       <p>Personal Data: Cookies and Usage data</p>
                     </li>
 
@@ -96,7 +96,7 @@
 
 
                     <li>
-                      <h5>Activity data tracked by your device </h3>
+                      <h3>Activity data tracked by your device </h3>
                       <p>Personal Data: food related activity </p>
                     </li>
 
@@ -121,7 +121,7 @@
 
 
                     <li>
-                      <h5>Google Wallet</h4>
+                      <h4>Google Wallet</h4>
                       <p>Personal Data: various types of Data as specified in the privacy policy of the service</p>
                     </li>
 
